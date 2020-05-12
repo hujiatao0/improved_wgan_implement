@@ -3,4 +3,4 @@
 
 数据是处理过的华盛顿州某25个发电厂的数据
 
-模型部署在GPU上直接运行imwgan.py即可
+模型用pytorch搭建，部署在GPU上直接运行imwgan.py即可
